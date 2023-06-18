@@ -9,7 +9,7 @@ To make and complete this project, we will mainly rely on sensitive sensors of d
 ## technolgies used 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 ## Demo Link
--[ Survillance Robot demo link]([https://drive.google.com/file/d/1kQPMMYIzGJdvJC_unXYc5jETr0IF80Wd/view?usp=sharing](https://www.youtube.com/watch?v=BqQ4rxccaiQ))
+-[Survillance Robot demo link](https://www.youtube.com/watch?v=BqQ4rxccaiQ)
 ## Authors
 
 - [@saharSaleh22](https://www.github.com/saharSaleh22)
